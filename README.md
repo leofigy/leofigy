@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![leofigy's github stats](https://github-readme-stats.vercel.app/api?username=leofigy&count_private=true&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofigy&theme=vue&layout=compact)
 
+![it_crowd_moes](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
